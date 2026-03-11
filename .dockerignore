@@ -1,0 +1,11 @@
+.env
+.venv
+.git
+__pycache__
+*.pyc
+.gitignore
+README.md
+DEPLOYMENT.md
+push-to-github.sh
+run_and_test.sh
+*.md
